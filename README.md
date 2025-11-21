@@ -6,4 +6,4 @@ For the text from the channel, the script will auto scroll, load new messages, a
 
 # How to use
 
-Log in to Discord web, then bring up Developer tools and in the Javascript console, paste the script either under the `channel` folder or `search_bar` folder. For the channel script, the messages will be auto saved to a csv and downloaded. For the search_bar script, you have to manually run `extract.js` after `collect.js`.
+Log in to Discord web, go to a server and to the channel you want or search for a keyword in the search bar. Then bring up Developer tools and in the Javascript console, paste the corresponding script either under the `channel` folder or `search_bar` folder. For the channel script, the messages will be auto saved to a csv and downloaded. For the search_bar script, you have to manually run `extract.js` after `collect.js` to download the csv.
